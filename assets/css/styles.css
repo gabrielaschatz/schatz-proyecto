@@ -37,9 +37,8 @@ a hover{
     margin-left: 20px;
 }
 
-.container{
-    padding-top: 30%;
-}
+.main{
+padding:10rem;
 
 .carousel {
 width: 80%;
